@@ -10,6 +10,11 @@ public class TestGit {
             System.out.println(11111);
         }
 
+        //先发送到测试分支
+        if(0 == 0)
+        {
+            System.out.println(0000000);
+        }
 
     }
 
